@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Grupo Oca</h1>
+    <h1>Grupo Oca - Site</h1>
   </div>
 </template>
 
