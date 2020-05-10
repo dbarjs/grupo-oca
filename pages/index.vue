@@ -1,9 +1,14 @@
 <template>
   <div>
-    <h1>Grupo Oca - Site</h1>
+    <partner-list></partner-list>
   </div>
 </template>
 
 <script>
-export default {}
+import PartnerList from '~/components/PartnerList.vue'
+export default {
+  components: {
+    PartnerList
+  }
+}
 </script>
